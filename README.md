@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sookumar
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning cgc landran
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on nothing
 - ⚡ Fun fact: i am loser
 
