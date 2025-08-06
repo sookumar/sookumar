@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sookumar
-- 👀 I’m interested in nothing
+- 👀 I’m interested in deep codes
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on nothing
-- ⚡ Fun fact: i am loser
 
 <!---
 sookumar/sookumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
