@@ -1,33 +1,41 @@
 ![Banner](Banner.png)
 
-I’m a computer science engineering student focused on
+I am a computer science engineering student focused on
 building strong fundamentals in data structures,
-backend systems, and real-world problem solving.
+system design basics, and real-world problem solving
+across frontend and backend development.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Learning+systems+from+the+inside;Consistency+over+motivation;Code.+Break.+Understand.+Repeat.&center=true&width=650)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Learning+systems+from+the+inside;Understanding+before+optimization;Consistency+over+motivation&center=true&width=650)
 
 ---
 
-### Core Programming
+## Core Programming
 C++, Java, JavaScript
 
-### Backend & APIs
-Node.js, Express, MongoDB, REST APIs
+## Frontend Development
+HTML, CSS, JavaScript  
+Responsive layouts, clean UI structure, basic accessibility
 
-### Fundamentals
-Data Structures, Algorithms, Operating Systems, DBMS
+## Backend & APIs
+Node.js, Express, MongoDB  
+REST APIs, MVC structure, authentication basics
 
-### Tools
+## Fundamentals
+Data Structures & Algorithms  
+Operating Systems, DBMS, Computer Networks (basics)
+
+## Tools
 Git, GitHub, VS Code
 
 ---
 
-### Current Focus
-• Strengthening DSA patterns in C++  
-• Building backend APIs with clean architecture  
-• Writing better commit messages and documentation  
+## Current Focus
+• Strengthening problem-solving patterns in C++  
+• Building clean, maintainable frontend–backend integrations  
+• Designing REST APIs with clear structure  
+• Improving code readability, commits, and documentation  
 
 ---
 
