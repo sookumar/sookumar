@@ -19,15 +19,15 @@ HTML, CSS, JavaScript
 Responsive layouts, clean UI structure, basic accessibility
 
 ## Backend & APIs
-Node.js, Express, MongoDB  
-REST APIs, MVC structure, authentication basics
+Node.js, Express, MongoDB, Mongoose
+REST APIs, MVC structure, authentications
 
 ## Fundamentals
 Data Structures & Algorithms  
 Operating Systems, DBMS, Computer Networks (basics)
 
 ## Tools
-Git, GitHub, VS Code
+Git, GitHub, VS Code, Postman, MongoDB Compass
 
 ---
 
