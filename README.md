@@ -7,11 +7,13 @@ across frontend and backend development.
 
 ---
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?lines=Understanding+before+optimization;Consistency+over+motivation;Learning+systems+from+the+inside&width=650&center=true&vCenter=true"
+    alt="Typing SVG"
+  />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Learning+systems+from+the+inside;Understanding+before+optimization;Consistency+over+motivation&width=650)
-
-</div>
 
 
 ---
