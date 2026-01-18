@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](Banner.png)  
 
 I am a computer science engineering student focused on   
 building strong fundamentals in data structures,   
