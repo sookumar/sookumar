@@ -1,9 +1,9 @@
 ![Banner](Banner.png)
 
-I am a computer science engineering student focused on
-building strong fundamentals in data structures,
-system design basics, and real-world problem solving
-across frontend and backend development.
+I am a computer science engineering student focused on   
+building strong fundamentals in data structures,   
+system design basics, and real-world problem solving  
+across frontend and backend development.  
 
 ---
 
