@@ -47,3 +47,7 @@ Git, GitHub, VS Code, Postman, MongoDB Compass
 ---
 
 Building slowly. Thinking deeply. Improving daily.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sookumar&show_icons=true&hide_title=true&hide_border=true&theme=github_dark" />
+</p>
