@@ -1,4 +1,4 @@
-![Banner](<img width="1280" height="320" alt="Image" src="https://github.com/user-attachments/assets/6bfb30fc-feab-4606-a750-a70a95654435" />)
+![Banner](Banner.png)
 
 I’m a computer science engineering student focused on
 building strong fundamentals in data structures,
