@@ -7,7 +7,12 @@ across frontend and backend development.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Learning+systems+from+the+inside;Understanding+before+optimization;Consistency+over+motivation&center=true&width=650)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Learning+systems+from+the+inside;Understanding+before+optimization;Consistency+over+motivation&width=650)
+
+</div>
+
 
 ---
 
